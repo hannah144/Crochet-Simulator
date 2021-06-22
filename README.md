@@ -10,4 +10,6 @@ This project is also attributable to Bill Lubanovic, who in the first chapter of
 
 Traditional ontologies depict complex systems of inheritance, where objects are structured based on shared attributes. I found that the relationship between my objects was not hierarchical and my more complex objects (stitch, row and pattern) all shared the same attributes. This realization informed the underlying philosophy of my project, ontology composition. Put simply, ontology composition is the idea of creating new objects by combining other objects. With just a few data attributes of yarn, hook and stitch type, we can perform simple calculations to predict the final metrics of complex crochet projects, thus solving the issue of sizing crocheted wearables.
 
-![Stellaluna in her purple sweater](https://github.com/[hannah144]/[Crochet-Simulator]/blob/[master]/Images/Stellaluna_Purple_Sweater.png?raw=true)
+<p align="center">
+  <img width="384" height="288" alt="Poncho+Sample_Blanket" src="https://github.com/hannah144/Crochet-Simulator/blob/cb014a8cad5e80d9e8bb19e7e02712f1b59622e1/Images/Poncho+Sample_Blanket.jpeg">
+</p>
