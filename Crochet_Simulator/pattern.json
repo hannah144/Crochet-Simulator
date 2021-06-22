@@ -1,0 +1,1 @@
+{"patterns": {"Sample_1": {"name": "Sample_1", "rows": {"a": {"name": "Bubble_Scarf1"}, "b": {"name": "Bubble_Scarf2"}}, "sequence": "a+b"}, "Bubble Scarf": {"name": "Bubble Scarf", "rows": {"a": {"name": "Bubble_Scarf1"}, "b": {"name": "Bubble_Scarf2"}, "c": {"name": "Bubble_Scarf3"}}, "sequence": "a + (b+c)*2"}}}

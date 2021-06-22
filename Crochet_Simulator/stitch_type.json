@@ -1,0 +1,52 @@
+{
+	"stitch_types" : {
+		"ch" : {
+			"name" : "Chain Stitch",
+			"side_view" : ["---"],
+			"top_view" : ["<=="],
+			"bottom_view" : ["---"],
+			"height_cons" : "None",
+			"yardage_cons" : "None"
+		},
+
+		"sl" : {
+			"name" : "Slip Stitch",
+			"side_view" : ["___"],
+			"top_view" : ["<=="],
+			"height_cons" : "None",
+			"yardage_cons" : "None"
+		},
+		
+		"sc" : {
+			"name" : "Single Crochet",
+			"side_view" : ["===", "/ \\"],
+			"top_view" : ["<=="],
+			"height_cons" : -0.736,
+			"yardage_cons" : -5.490
+		},
+		
+		"hc" : {
+			"name" : "Half Double Crochet",
+			"side_view" : ["===", "\\__", "| /"],
+			"top_view" : ["<=="],
+			"height_cons" : -0.53,
+			"yardage_cons" : -3.080
+		},
+		
+		"dc" : {
+			"name" : "Double Crochet",
+			"side_view" : ["===", "\\__", "| /", "\\/ "],
+			"top_view" : ["<=="],
+			"height_cons" : 0,
+			"yardage_cons" : 0
+		},
+
+		"tc" : {
+			"name" : "Treble Crochet",
+			"side_view" : ["===", "\\__","| /","\\/_", "| /"],
+			"top_view" : ["<=="],
+			"height_cons" : 0.813,
+			"yardage_cons" : 4.239
+		}
+	}
+}
