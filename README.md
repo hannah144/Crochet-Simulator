@@ -41,6 +41,10 @@ Creating a new pattern is like creating a row, but instead of stitches, patterns
 
 
 ## Goals, Achievements & Challenges
+<p align="left">
+  <img width=100% height=100% alt="Poncho+Sample_Blanket" src="https://github.com/hannah144/Crochet-Simulator/blob/9ccdc408cf939daf24f31d7adaed1390cc5f13ac/Images/Picture2.png">
+</p>
+
 Like computer programming, crochet projects can achieve extraordinarily high levels of intricacy. Therefore, the main goal of this project is to create a basic framework for the process of generating simple crochet structures out of yarn, hook and stitch type. With the foundation in place, this program has the capacity to expand its functionality to simulate increasingly complex and diverse crochet techniques. Below are some accomplishments made in the process of achieving the main goal.
 
 #### 1. Statistical Models to Predict Attributes
