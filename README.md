@@ -39,3 +39,17 @@ Creating a new pattern is like creating a row, but instead of stitches, patterns
 > Sample: (a+b)*10
 
 
+## Goals, Achievements & Challenges
+Like computer programming, crochet projects can achieve extraordinarily high levels of intricacy. Therefore, the main goal of this project is to create a basic framework for the process of generating simple crochet structures out of yarn, hook and stitch type. With the foundation in place, this program has the capacity to expand its functionality to simulate increasingly complex and diverse crochet techniques. Below are some accomplishments made in the process of achieving the main goal.
+
+#### 1. Statistical Models to Predict Attributes
+Despite being a relatively small aspect of the code itself, stitch, row and pattern classes all calculate their defining attributes: height, width and weight. The formulas for height and width were derived from statistical models generated in R and produce correct results within an inch. Many hours of this project were spent on data collection, which involved crocheting gauge squares, recording measurements, then unravelling the square to repeat the process.
+
+#### 2. Ascii Representations
+Though slightly frivolous, generating visual representations from stitch types to patterns was an initial goal of mine. Every stitch type object has a list of ascii strings. To get the representation, the program will simply loop through the list of strings printing each element with a return character. Because different stitch types have different numbers of list elements, printing a row of stitches was a more complex task, which involved normalizing the number of list elements for each stitch in the row and then concatenating long strings for each list index.
+
+#### 3. Recreating Crochet World’s Bubble Scarf
+One of the most rewarding aspects of creating my program was being able to model some of my real projects, including Crochet World’s Bubble Scarf (top left).
+
+## Conclusion
+As previously stated, this project is only the beginning and the potential of this project spans far beyond just calculating the metrics of a crochet project, generating increasingly complex patterns and organizing user’s crochet inventory. I see this program as a design tool that could use machine learning to increase accuracy of predictions for specific users and further expand capabilities. Currently, the statistical models used are based on data that I generated. By creating a system within the program to facilitate easy user data entry, this program could adjust the formulas to personalize its output. Perhaps one day you would be able to feed the program an image of a crochet pattern, which it will then be able to translate and simulate for the user. Additionally, maybe with the help of web scraping and APIs, the program would be able to generate suggestions for modifying patterns. So much can be done to further build out this basic program. Now that the foundation has been created, it’s really a just matter of time and imagination for these functionalities to be fully realized and implemented.
