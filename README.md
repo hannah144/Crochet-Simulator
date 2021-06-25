@@ -1,4 +1,4 @@
-# Crochet-Simulator
+# Crochet-Simulator: A Journey into Ontology Composition
 *Simulate basic crochet stitches, gauge squares and patterns!*
 
 By Hannah Gross ~ MIDS Spring 2021 ~ hannah.gross@berkeley.edu
