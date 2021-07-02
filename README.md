@@ -3,12 +3,11 @@
 
 By Hannah Gross ~ MIDS Spring 2021 ~ hannah.gross@berkeley.edu
 
+Inspired by my sweater-wearing 15lb chihuahua, Stellaluna, Crochet Simulator was developed as a tool to help myself, and other avid crochet people properly size their crocheted wearables. This project draws on the traditional sizing solution - gauge squares - and goes further to allow users to simulate full on crochet patterns. The Simulator also functions as an inventory where the user can record and save their previously created yarns, stitches, rows and patterns.
 
 <p align="left">
   <img width=100% height=100% alt="Poncho+Sample_Blanket" src="https://github.com/hannah144/Crochet-Simulator/blob/f1080abb050646e1e14cd123f6e1573e67dbf2d8/Images/Picture1.png">
 </p>
-
-Inspired by my sweater-wearing 15lb chihuahua, Stellaluna, Crochet Simulator was developed as a tool to help myself, and other avid crochet people properly size their crocheted wearables. This project draws on the traditional sizing solution - gauge squares - and goes further to allow users to simulate full on crochet patterns. The Simulator also functions as an inventory where the user can record and save their previously created yarns, stitches, rows and patterns.
 
 ## Instructions
 
